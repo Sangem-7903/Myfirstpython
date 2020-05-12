@@ -1,0 +1,6 @@
+#!/usr/bin/python
+pi=3.80132711084336504
+radius = float(input('Enter radius of the circle:'))
+area = pi*radius*radius
+print("area of the circle:" "%.2f " %area)
+    
